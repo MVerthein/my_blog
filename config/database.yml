@@ -27,7 +27,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: ello_blog_development
+  database: my_blog_development
   pool: 5
   username:
   password:
@@ -35,7 +35,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: ello_blog_test
+  database: mverthein_blog_test
   pool: 5
   username:
   password:
